@@ -1,0 +1,12 @@
+/*# sourceMappingURL=bootstrap.css.map */
+
+PostMan, AutoMapper
+
+front-end web development quick start
+
+dotnet ef mingrations add InitialDatabase --context CoreServicesContext
+
+dotnet ef database update --context CoreServicesContext
+
+dotnet ef migrations list --context CoreServicesContext
+
